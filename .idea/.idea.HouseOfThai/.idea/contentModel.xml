@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ccaldwell\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ccaldwell\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_HouseOfThai.-2091036562.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ccaldwell\RiderProjects\HouseOfThai" t="IncludeFlat">
+      <e p="HouseOfThai" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="FilterConfig.cs" t="Include" />
+          <e p="RouteConfig.cs" t="Include" />
+        </e>
+        <e p="appetizers.html" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.css.map" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap-theme.min.css.map" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.css.map" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="bootstrap.min.css.map" t="Include" />
+          <e p="css" t="Include">
+            <e p="bootstrap.css" t="Include" />
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="fonts" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="glyphicons-halflings-regular.eot" t="Include" />
+              <e p="glyphicons-halflings-regular.svg" t="Include" />
+              <e p="glyphicons-halflings-regular.ttf" t="Include" />
+              <e p="glyphicons-halflings-regular.woff" t="Include" />
+              <e p="glyphicons-halflings-regular.woff2" t="Include" />
+            </e>
+            <e p="fontawesome-webfont.eot" t="Include" />
+            <e p="fontawesome-webfont.svg" t="Include" />
+            <e p="fontawesome-webfont.ttf" t="Include" />
+            <e p="fontawesome-webfont.woff" t="Include" />
+            <e p="fontawesome-webfont.woff2" t="Include" />
+            <e p="FontAwesome.otf" t="Include" />
+            <e p="garamont" t="Include">
+              <e p="GARA.TTF" t="Include" />
+              <e p="GARABD.TTF" t="Include" />
+              <e p="GARAIT.TTF" t="Include" />
+            </e>
+            <e p="Linearicons.ttf" t="Include" />
+            <e p="materialdesignicons-webfont.eot" t="Include" />
+            <e p="materialdesignicons-webfont.svg" t="Include" />
+            <e p="materialdesignicons-webfont.ttf" t="Include" />
+            <e p="materialdesignicons-webfont.woff" t="Include" />
+            <e p="materialdesignicons-webfont.woff2" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="_blank.png" t="Include" />
+            <e p="_notes" t="Include" />
+            <e p="about-4-985x652.jpg" t="Include" />
+            <e p="ajax-loader.gif" t="Include" />
+            <e p="favicon.ico" t="Include" />
+            <e p="gmap_marker.png" t="Include" />
+            <e p="gmap_marker_active.png" t="Include" />
+            <e p="HouseOfThai" t="Include">
+              <e p="14014140_m.jpg" t="Include" />
+              <e p="30817873_m.jpg" t="Include" />
+              <e p="35607066_m.jpg" t="Include" />
+              <e p="9283830_m.jpg" t="Include" />
+              <e p="BackgroundPhotoofHouseofThai.png" t="Include" />
+              <e p="BackgroundPhotoofHouseofThai2.png" t="Include" />
+              <e p="BackgroundTakeOut.png" t="Include" />
+              <e p="Building-Straight-View.jpg" t="Include" />
+              <e p="Building-Straight-View1920x703.png" t="Include" />
+              <e p="ChefDang982x652.png" t="Include" />
+              <e p="EatGoodFood195x50.png" t="Include" />
+              <e p="EnjoyFriends160x50.png" t="Include" />
+              <e p="Food-Appetizers-418x315.png" t="Include" />
+              <e p="Food-ChefSpecials.png" t="Include" />
+              <e p="Food-ChefSpecials2.png" t="Include" />
+              <e p="Food-Curry-418x315.png" t="Include" />
+              <e p="Food-Dessert418x315.png" t="Include" />
+              <e p="Food-Entree418x315.png" t="Include" />
+              <e p="Food-FriedRice-418x315.png" t="Include" />
+              <e p="Food-Kids418x315.png" t="Include" />
+              <e p="Food-Kids418x315_tmp27050" t="Include" />
+              <e p="Food-Salad-418x315.png" t="Include" />
+              <e p="Food-SeaFood-418x315.png" t="Include" />
+              <e p="Food-Soup-418x315.png" t="Include" />
+              <e p="Food-Vegetarian418x315.png" t="Include" />
+              <e p="Food1-453x700.jpg" t="Include" />
+              <e p="Food1-900x1390.png" t="Include" />
+              <e p="Food2-433x315.jpg" t="Include" />
+              <e p="Food3-433x313.png" t="Include" />
+              <e p="Food985x652.png" t="Include" />
+              <e p="Gift Cards.png" t="Include" />
+              <e p="House-of-Thai-Logo-Clear.png" t="Include" />
+              <e p="House-of-Thai-Logo-Final.jpg" t="Include" />
+              <e p="house-of-thai-website-stuff.png" t="Include" />
+              <e p="HouseofThai800x133.png" t="Include" />
+              <e p="HouseofThaiWords600x83.png" t="Include" />
+              <e p="Inside.jpg" t="Include" />
+              <e p="Inside.psd" t="Include" />
+              <e p="Inside_tmp30293" t="Include" />
+              <e p="Noodles418x315.png" t="Include" />
+              <e p="Noodles418x315_tmp17434" t="Include" />
+              <e p="OutlineLogo600.png" t="Include" />
+              <e p="Relax154x50.png" t="Include" />
+              <e p="RelaxThai220x85.png" t="Include" />
+              <e p="SawadeeThai220x126.png" t="Include" />
+              <e p="Spicy-Chart.png" t="Include" />
+              <e p="Square1-605x605.png" t="Include" />
+              <e p="Square1-605x605_tmp14508" t="Include" />
+              <e p="Square2-605x605.png" t="Include" />
+              <e p="Square3-605x605.png" t="Include" />
+              <e p="Square4-605x605.png" t="Include" />
+              <e p="Square5-605x605.png" t="Include" />
+              <e p="Square6-605x605.png" t="Include" />
+              <e p="Square7-605x605.png" t="Include" />
+              <e p="TeaThai220x109.png" t="Include" />
+              <e p="ThaiEat220x200.png" t="Include" />
+              <e p="ThaiEnjoy220x131.png" t="Include" />
+              <e p="ThaiExperience220x62.png" t="Include" />
+              <e p="ThaiMakeFriends220x78.png" t="Include" />
+              <e p="tripadvisor-app-logo-tripadvisor-icon.gif" t="Include" />
+            </e>
+            <e p="ie8-panel" t="Include">
+              <e p="warning_bar_0000_us.jpg" t="Include" />
+            </e>
+            <e p="isotope-loader.png" t="Include" />
+            <e p="logo-145x33.png" t="Include" />
+            <e p="photoswipe-controls.png" t="Include" />
+            <e p="photoswipe-controls.svg" t="Include" />
+            <e p="preloader.gif" t="Include" />
+            <e p="preloader.png" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="core.min.js" t="Include" />
+            <e p="html5shiv.min.js" t="Include" />
+            <e p="pointer-events.min.js" t="Include" />
+            <e p="script.js" t="Include" />
+          </e>
+          <e p="Site.css" t="Include" />
+          <e p="style.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="curries.html" t="Include" />
+        <e p="Desserts.html" t="Include" />
+        <e p="favicon.ico" t="Include" />
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+          <e p="glyphicons-halflings-regular.woff2" t="Include" />
+        </e>
+        <e p="friedrice.html" t="Include" />
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="HouseOfThai.csproj" t="IncludeRecursive" />
+        <e p="HouseSpecials.html" t="Include" />
+        <e p="index.html" t="Include" />
+        <e p="KidsMealBeverages.html" t="Include" />
+        <e p="Models" t="Include" />
+        <e p="noodles.html" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Salads.html" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="jquery-3.3.1.intellisense.js" t="Include" />
+          <e p="jquery-3.3.1.js" t="Include" />
+          <e p="jquery-3.3.1.min.js" t="Include" />
+          <e p="jquery-3.3.1.min.map" t="Include" />
+          <e p="jquery-3.3.1.slim.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.map" t="Include" />
+          <e p="jquery.validate-vsdoc.js" t="Include" />
+          <e p="jquery.validate.js" t="Include" />
+          <e p="jquery.validate.min.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          <e p="modernizr-2.8.3.js" t="Include" />
+        </e>
+        <e p="seafood.html" t="Include" />
+        <e p="soup.html" t="Include" />
+        <e p="StirFry.html" t="Include" />
+        <e p="vegetarian.html" t="Include" />
+        <e p="Views" t="Include">
+          <e p="Shared" t="Include">
+            <e p="Error.html" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="HouseOfThai.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f54e0a34-883e-41d4-82a2-4b2c485da605" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Views/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Views/Shared/Error.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Web.Debug.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Global.asax" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/index.cshtml" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseOfThai/packages.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/index.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/curries.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/appetizers.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/vegetarian.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/entrees.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/friedrice.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/kidsdesertbeverages.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/seafood.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/soup.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/noodles.cshtml" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/soup.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/kidsdesertbeverages.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/index.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/HouseOfThai/HouseOfThai.csproj" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Deserts.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Vegetarian.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Seafood.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/FriedRice.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Noodles.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/StirFry.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Soup.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Salads.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/HouseSpecials.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Curries.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Desserts.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/KidsMealBeverages.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Index.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Views/Home/Appetizers.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Vegetarian.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Index.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Content/style.css" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Content/css/style.css" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Soup.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Salads.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/FriedRice.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/StirFry.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Curries.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/HouseSpecials.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Seafood.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/KidsMealBeverages.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Noodles.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/Appetizers.html" />
+        <option value="$PROJECT_DIR$/HouseOfThai/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U4dmKjx9ZCb8x8cKNqiRlfOWSb" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HouseOfThai/Vegetarian.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="WinFormsDesignerOptionsPage" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Index.html">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:HouseOfThai /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HouseOfThai/HouseOfThai.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser url="http://localhost:5000/" start="true" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HouseOfThai/HouseOfThai/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HouseOfThai/HouseOfThai/Views/Home/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="vegetarian.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HouseOfThai/HouseOfThai/Views/Home/vegetarian.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.vegetarian.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f54e0a34-883e-41d4-82a2-4b2c485da605" name="Default Changelist" comment="" />
+      <created>1574619959327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574619959327</updated>
+      <workItem from="1574619962430" duration="10280000" />
+      <workItem from="1575064838076" duration="2688000" />
+      <workItem from="1575067565291" duration="854000" />
+      <workItem from="1575296169375" duration="565000" />
+      <workItem from="1575298118903" duration="510000" />
+      <workItem from="1575332613049" duration="8547000" />
+      <workItem from="1575587232199" duration="10021000" />
+      <workItem from="1575673772027" duration="16465000" />
+      <workItem from="1575933604954" duration="1746000" />
+      <workItem from="1576884325082" duration="9297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
